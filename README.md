@@ -3,8 +3,8 @@
 <h1 align="center" style="color:#ffffff;">Hi 👋, I'm Rutik Kohakade</h1>
 <h3 align="center" style="color:#ffffff;">Driven full-stack developer from India, committed to transforming ideas into reality by harmonizing intuitive design with robust back-end architecture.</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="GIF" width="300"/>
+<p align="left">
+  <img src="https://private-user-images.githubusercontent.com/103893442/314160949-87118b16-c7cf-4470-b347-1235516ece83.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA4NjkwMzMsIm5iZiI6MTcxMDg2ODczMywicGF0aCI6Ii8xMDM4OTM0NDIvMzE0MTYwOTQ5LTg3MTE4YjE2LWM3Y2YtNDQ3MC1iMzQ3LTEyMzU1MTZlY2U4My5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMxOVQxNzE4NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNmY5YzU2MWIyNzY2MmY4MzY3OWQ5ZmE1Yjg0M2I3ODI0ZTY1OGFiM2JhNzViNjM2YjkwZDZiOTJhNjA0NTY5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.9xeB-9u0H6nRCQohMM07CmxtBlZxvwLQ9VdJcl5lprg" alt="GIF" width="300"/>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutik0999&label=Profile%20views&color=0e75b6&style=flat" alt="rutik0999" /> </p>
 
