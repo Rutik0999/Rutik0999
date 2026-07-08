@@ -45,14 +45,10 @@ A responsive Flutter Web application with authentication, internship portal, mod
 **🔗 Repository:** [Banking Loan Management System](https://github.com/Rutik0999/FutureSkillDevProject)
    
 # 📊 GitHub Stats:
-<p align="center">
-  ![](https://github-readme-stats.shion.dev/api?username=Rutik0999&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-  ![](https://streak-stats.demolab.com/?user=Rutik0999&theme=radical&hide_border=false)
-</p>
+![](https://github-readme-stats.shion.dev/api?username=Rutik0999&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Rutik0999&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rutik0999&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rutik0999&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
 
 ## 📈 GitHub Activity Graph
 
