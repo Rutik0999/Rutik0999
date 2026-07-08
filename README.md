@@ -46,12 +46,12 @@ A responsive Flutter Web application with authentication, internship portal, mod
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rutik0999&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Rutik0999&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rutik0999&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=Rutik0999&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutik0999&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutik0999&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ## 📈 GitHub Activity Graph
