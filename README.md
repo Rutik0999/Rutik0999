@@ -43,15 +43,15 @@ A responsive Flutter Web application with authentication, internship portal, mod
 **Tech Stack:** Flutter Web • Firebase
 
 **🔗 Repository:** [Banking Loan Management System](https://github.com/Rutik0999/FutureSkillDevProject)
-
+   
 # 📊 GitHub Stats:
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rutik0999&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=Rutik0999&theme=radical&hide_border=true"/>
+  ![](https://github-readme-stats.shion.dev/api?username=Rutik0999&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+  ![](https://streak-stats.demolab.com/?user=Rutik0999&theme=radical&hide_border=false)
 </p>
 
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rutik0999)
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rutik0999&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
 ## 📈 GitHub Activity Graph
