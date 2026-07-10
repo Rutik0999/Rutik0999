@@ -51,7 +51,7 @@ const rutikKohakade = {
 
 </td>
 <td valign="top" width="35%" align="center">
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
+<img src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://lottiefiles.com/free-animation/programmer-cfyejZCKW7)" width="100%"/>
 </td>
 </tr>
 </table>
