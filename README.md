@@ -59,7 +59,7 @@
 
 </td>
 <td valign="middle" width="40%" align="center">
-<img src="https://raw.githubusercontent.com/Rutik0999/Rutik0999/main/coding.gif" width="220"/>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="280"/>
 </td>
 </tr>
 </table>
