@@ -51,7 +51,7 @@ const rutikKohakade = {
 
 </td>
 <td valign="middle" width="45%" align="center">
-<video src="https://assets-v2.lottiefiles.com/a/7bcc07ec-1168-11ee-b4dd-d76ae6b5f95a/HklYg9utx8.mp4" autoplay loop muted playsinline width="320"></video>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="320"/>
 </td>
 </tr>
 </table>
