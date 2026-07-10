@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:1B1035,100:2D1B4E&height=220&section=header&text=Rutik%20Kohakade&fontSize=48&fontColor=00E5FF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Node.js%20%7C%20CS%20Passout&descAlignY=55&descSize=18&fontColor2=FF3EA5" width="100%"/>
 
