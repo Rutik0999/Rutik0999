@@ -22,9 +22,9 @@
 
 ## 🧑‍💻 Who I Am
 
-<table>
+<table bgcolor="#0A0A0F" cellpadding="20" style="border-radius:10px;">
 <tr>
-<td valign="middle" width="60%">
+<td valign="middle" width="60%" bgcolor="#12081F" bordercolor="#00E5FF">
 
 <pre>
 <code>const rutikKohakade = {
@@ -58,7 +58,7 @@
 </pre>
 
 </td>
-<td valign="middle" width="40%" align="center">
+<td valign="middle" width="40%" align="center" bgcolor="#1B1035" bordercolor="#FF3EA5">
 <img src="https://raw.githubusercontent.com/Rutik0999/Rutik0999/main/coding.webp" width="280"/>
 </td>
 </tr>
