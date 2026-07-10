@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:1B1035,100:2D1B4E&height=220&section=header&text=Rutik%20Kohakade&fontSize=48&fontColor=00E5FF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Node.js%20%7C%20CS%20Passout&descAlignY=55&descSize=18&fontColor2=FF3EA5" width="100%"/>
 
@@ -59,7 +59,7 @@
 
 </td>
 <td valign="middle" width="40%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="280"/>
+<img src="https://raw.githubusercontent.com/Rutik0999/Rutik0999/main/assets/coding.gif" width="280"/>
 </td>
 </tr>
 </table>
