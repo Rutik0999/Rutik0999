@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:1B1035,100:2D1B4E&height=220&section=header&text=Rutik%20Kohakade&fontSize=48&fontColor=00E5FF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Node.js%20%7C%20CS%20Passout&descAlignY=55&descSize=18&fontColor2=FF3EA5" width="100%"/>
 
 <a href="https://github.com/Rutik0999">
@@ -27,8 +26,8 @@
 <tr>
 <td valign="middle" width="60%">
 
-```typescript
-const rutikKohakade = {
+<pre>
+<code>const rutikKohakade = {
   title: "Full Stack Developer | CS Passout Student",
   stack: {
     languages: ["C", "Dart", "Java", "JavaScript", "Kotlin"],
@@ -52,10 +51,11 @@ const rutikKohakade = {
     "My Company Website (Flutter Web)",
   ],
   currentlyLearning: ["React.js", "Modern Frontend Development"],
-  status: "🌱 Growing every day, one commit at a time",
+  status: "Growing every day, one commit at a time",
   openTo: ["Software Developer Roles", "Full Stack Opportunities", "Collaborations"],
 };
-```
+</code>
+</pre>
 
 </td>
 <td valign="middle" width="40%" align="center">
