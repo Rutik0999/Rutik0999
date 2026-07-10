@@ -19,31 +19,17 @@
 
 ## 🧑‍💻 Who I Am
 
-```typescript
-const rutikKohakade = {
-  title: "Full Stack Developer | CS Passout Student",
-  stack: [
-    "Java", "JavaScript", "Kotlin", "Dart", "C",
-    "React", "Flutter", "Bootstrap",
-    "Spring", "Spring Boot", "Hibernate", "JDBC", "JWT", "Node.js",
-    "Servlet", "JSP", "REST APIs",
-    "Firebase", "Google Cloud",
-    "MySQL",
-    "Git", "GitHub", "Apache", "Apache Tomcat",
-    "Android Studio", "VS Code", "IntelliJ IDEA", "Postman", "Bruno"
-  ],
-  launchedProjects: [
-    "Banking Loan Management System",
-    "Food Delivery App",
-    "My Company Website"
-  ],
-  certifications: [], // none listed yet
-  status: "🌱 Learning React.js and modern frontend development",
-  openTo: "🎯 Software Developer opportunities"
-};
-```
+# 💫 About Me:
+👋 Hi, I'm **Rutik Kohakade**, a passionate **Full-Stack Developer** from India with hands-on experience in building modern web and mobile applications using **Java, Spring Boot, React, Flutter, JavaScript, MySQL, Firebase, and REST APIs**.<br><br>🚀 I enjoy transforming ideas into scalable, user-friendly, and efficient software solutions. My experience includes developing real-world projects such as a **Banking Loan Management System**, a **Food Delivery Application**, and responsive web applications, giving me practical exposure to both frontend and backend development.<br><br>💡 I'm passionate about writing clean, maintainable code, solving real-world problems, and continuously learning modern technologies to improve my development skills.<br>
 
-<br/>
+<br>## 🚀 Current Focus
+
+- 🌱 Learning **React.js** and modern frontend development
+- ⚙️ Building scalable applications with **Spring Boot**
+- 📱 Developing cross-platform apps using **Flutter**
+- 💻 Improving **Data Structures & Algorithms**
+- 🎯 Seeking Software Developer opportunities <br>
+
 
 ## 🚀 Featured Projects
 
@@ -158,3 +144,5 @@ A responsive Flutter Web application with authentication, internship portal, mod
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
+
+💡 "Great software is built through continuous learning, clean code, and solving real-world problems."
