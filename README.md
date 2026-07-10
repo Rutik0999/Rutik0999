@@ -52,10 +52,7 @@ const rutikKohakade = {
 
 A full-stack application for managing customer loan files, document verification, loan processing, and customer records.
 
-<div align="center">
-<img src="![Uploading onboard2.png…]()
-/api/pin/?username=Rutik0999&repo=GBS_Loan_App&theme=nord&border_color=7dd3fc&bg_color=0D1117&title_color=7dd3fc&text_color=c9d1d9&icon_color=a78bfa" alt="Banking Loan Management System"/>
-</div>
+
 
 | Layer      | Technology                          |
 |------------|--------------------------------------|
