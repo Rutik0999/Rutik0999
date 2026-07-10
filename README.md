@@ -52,10 +52,6 @@ const rutikKohakade = {
 
 A full-stack application for managing customer loan files, document verification, loan processing, and customer records.
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutik0999&repo=GBS_Loan_App&theme=dark&border_color=00E5FF&bg_color=0A0A0F&title_color=00E5FF&text_color=E6EDF3&icon_color=FF3EA5" alt="Banking Loan Management System"/>
-</div>
-
 | Layer      | Technology                          |
 |------------|--------------------------------------|
 | Backend    | Java, Spring Boot                    |
@@ -70,10 +66,6 @@ A full-stack application for managing customer loan files, document verification
 
 A cross-platform Flutter application featuring authentication, Firebase integration, shopping cart, payment flow, and order management.
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutik0999&repo=Food_Delivery_App&theme=dark&border_color=00E5FF&bg_color=0A0A0F&title_color=00E5FF&text_color=E6EDF3&icon_color=FF3EA5" alt="Food Delivery App"/>
-</div>
-
 | Layer      | Technology                |
 |------------|----------------------------|
 | Framework  | Flutter, Dart              |
@@ -87,10 +79,6 @@ A cross-platform Flutter application featuring authentication, Firebase integrat
 ### 🌐 My Company Website
 
 A responsive Flutter Web application with authentication, internship portal, modern UI, and contact management.
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutik0999&repo=FutureSkillDevProject&theme=dark&border_color=00E5FF&bg_color=0A0A0F&title_color=00E5FF&text_color=E6EDF3&icon_color=FF3EA5" alt="My Company Website"/>
-</div>
 
 | Layer      | Technology       |
 |------------|-------------------|
@@ -133,8 +121,10 @@ A responsive Flutter Web application with authentication, internship portal, mod
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rutik0999&show_icons=true&theme=dark&border_color=00E5FF&bg_color=0A0A0F&title_color=00E5FF&text_color=E6EDF3&icon_color=FF3EA5&hide_border=false" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutik0999&layout=compact&theme=dark&border_color=00E5FF&bg_color=0A0A0F&title_color=00E5FF&text_color=E6EDF3&hide_border=false" alt="Top Languages" width="48%"/>
+![](https://github-readme-stats.shion.dev/api?username=Rutik0999&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Rutik0999&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rutik0999&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <br/><br/>
 
@@ -147,7 +137,13 @@ A responsive Flutter Web application with authentication, internship portal, mod
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rutik0999&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="Trophies"/>
+![](https://github-profile-trophy.vercel.app/?username=Rutik0999&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://komarev.com/ghpvc/?username=Rutik0999&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 </div>
 
 <br/>
@@ -175,5 +171,6 @@ A responsive Flutter Web application with authentication, internship portal, mod
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1B4E,50:1B1035,100:0A0A0F&height=150&section=footer&animation=twinkling"/>
+💡 "Great software is built through continuous learning, clean code, and solving real-world problems."
 
 </div>
