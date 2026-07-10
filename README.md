@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:1B1035,100:2D1B4E&height=220&section=header&text=Rutik%20Kohakade&fontSize=48&fontColor=00E5FF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CS%20Passout&descAlignY=55&descSize=18&fontColor2=FF3EA5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:1B1035,100:2D1B4E&height=220&section=header&text=Rutik%20Kohakade&fontSize=48&fontColor=00E5FF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Node.js%20%7C%20CS%20Passout&descAlignY=55&descSize=18&fontColor2=FF3EA5" width="100%"/>
 
 <a href="https://github.com/Rutik0999">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00E5FF&background=0A0A0F00&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;Learning+React.js+%26+Modern+Frontend+%F0%9F%8C%B1;Building+with+Spring+Boot+%E2%9A%99%EF%B8%8F;Develop+Cross-Platform+Apps+with+Flutter+%F0%9F%93%B1;Improving+Data+Structures+%26+Algorithms+%F0%9F%92%BB;Seeking+Software+Developer+Opportunities+%F0%9F%8E%AF" alt="Typing SVG" />
@@ -8,18 +8,22 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-FF3EA5?style=for-the-badge&logo=handshake&logoColor=0A0A0F&labelColor=0A0A0F" alt="Open to Work"/>
-
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Full%20Stack%20Developer%20Role-FF3EA5?style=for-the-badge&logo=handshake&logoColor=0A0A0F&labelColor=0A0A0F" alt="Open to Work - Full Stack Developer Role"/>
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Rutik0999&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge&labelColor=0A0A0F" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/Rutik0999?label=FOLLOWERS&style=for-the-badge&color=FF3EA5&logo=github&labelColor=0A0A0F&logoColor=00E5FF" alt="Followers"/>
+<a href="mailto:rutikkohakade0999@gmail.com"><img src="https://img.shields.io/badge/EMAIL-rutikkohakade0999%40gmail.com-00E5FF?style=for-the-badge&logo=gmail&logoColor=FF3EA5&labelColor=0A0A0F" alt="Email"/></a>
 
 </div>
 
 <br/>
 
 ## 🧑‍💻 Who I Am
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```typescript
 const rutikKohakade = {
@@ -44,7 +48,12 @@ const rutikKohakade = {
 };
 ```
 
-<br/>
+</td>
+<td width="40%" valign="top" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ## 🚀 Featured Projects
 
