@@ -3,12 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:1B1035,100:2D1B4E&height=220&section=header&text=Rutik%20Kohakade&fontSize=48&fontColor=00E5FF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Node.js%20%7C%20CS%20Passout&descAlignY=55&descSize=18&fontColor2=FF3EA5" width="100%"/>
 
 <a href="https://github.com/Rutik0999">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00E5FF&background=0A0A0F00&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;Learning+React.js+%26+Modern+Frontend+%F0%9F%8C%B1;Building+with+Spring+Boot+%E2%9A%99%EF%B8%8F;Develop+Cross-Platform+Apps+with+Flutter+%F0%9F%93%B1;Improving+Data+Structures+%26+Algorithms+%F0%9F%92%BB;Seeking+Software+Developer+Opportunities+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00E5FF&background=0A0A0F00&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;Learning+React.js+%26+Modern+Frontend+%F0%9F%8C%B1;Building+with+Spring+Boot+%E2%9A%99%EF%B8%8F;Developing+Cross-Platform+Apps+with+Flutter+%F0%9F%93%B1;Improving+Data+Structures+%26+Algorithms+%F0%9F%92%BB;Seeking+Software+Developer+Opportunities+%F0%9F%8E%AF" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Full%20Stack%20Developer%20Role-FF3EA5?style=for-the-badge&logo=handshake&logoColor=0A0A0F&labelColor=0A0A0F" alt="Open to Work - Full Stack Developer Role"/>
+
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Rutik0999&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge&labelColor=0A0A0F" alt="Profile Views"/>
@@ -23,7 +24,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td valign="top" width="65%">
 
 ```typescript
 const rutikKohakade = {
@@ -49,17 +50,23 @@ const rutikKohakade = {
 ```
 
 </td>
-<td width="40%" valign="top" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<td valign="top" width="35%" align="center">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
 </td>
 </tr>
 </table>
+
+<br/>
 
 ## 🚀 Featured Projects
 
 ### 🏦 Banking Loan Management System
 
 A full-stack application for managing customer loan files, document verification, loan processing, and customer records.
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutik0999&repo=GBS_Loan_App&theme=dark&border_color=00E5FF&bg_color=0A0A0F&title_color=00E5FF&text_color=E6EDF3&icon_color=FF3EA5" alt="Banking Loan Management System"/>
+</div>
 
 | Layer      | Technology                          |
 |------------|--------------------------------------|
@@ -75,6 +82,10 @@ A full-stack application for managing customer loan files, document verification
 
 A cross-platform Flutter application featuring authentication, Firebase integration, shopping cart, payment flow, and order management.
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutik0999&repo=Food_Delivery_App&theme=dark&border_color=00E5FF&bg_color=0A0A0F&title_color=00E5FF&text_color=E6EDF3&icon_color=FF3EA5" alt="Food Delivery App"/>
+</div>
+
 | Layer      | Technology                |
 |------------|----------------------------|
 | Framework  | Flutter, Dart              |
@@ -88,6 +99,10 @@ A cross-platform Flutter application featuring authentication, Firebase integrat
 ### 🌐 My Company Website
 
 A responsive Flutter Web application with authentication, internship portal, modern UI, and contact management.
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutik0999&repo=FutureSkillDevProject&theme=dark&border_color=00E5FF&bg_color=0A0A0F&title_color=00E5FF&text_color=E6EDF3&icon_color=FF3EA5" alt="My Company Website"/>
+</div>
 
 | Layer      | Technology       |
 |------------|-------------------|
@@ -130,18 +145,22 @@ A responsive Flutter Web application with authentication, internship portal, mod
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=Rutik0999&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Rutik0999&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rutik0999&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Rutik0999&show_icons=true&theme=dark&border_color=00E5FF&bg_color=0A0A0F&title_color=00E5FF&text_color=E6EDF3&icon_color=FF3EA5&hide_border=false" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutik0999&layout=compact&theme=dark&border_color=00E5FF&bg_color=0A0A0F&title_color=00E5FF&text_color=E6EDF3&hide_border=false" alt="Top Languages" width="48%"/>
 
 <br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Rutik0999&background=0A0A0F&border=00E5FF&ring=00E5FF&fire=FF3EA5&currStreakLabel=00E5FF&sideLabels=E6EDF3&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="GitHub Streak"/>
 
 </div>
 
 <br/>
 
 ## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rutik0999&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="Trophies"/>
+</div>
 
 <br/>
 
@@ -164,7 +183,7 @@ A responsive Flutter Web application with authentication, internship portal, mod
 [![Email](https://img.shields.io/badge/Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=FF3EA5)](mailto:rutikkohakade0999@gmail.com)
 
 </div>
-💡 "Great software is built through continuous learning, clean code, and solving real-world problems."
+
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1B4E,50:1B1035,100:0A0A0F&height=150&section=footer&animation=twinkling"/>
