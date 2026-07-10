@@ -24,7 +24,7 @@
 
 <table>
 <tr>
-<td valign="middle" width="55%">
+<td valign="middle" width="60%">
 
 ```typescript
 const rutikKohakade = {
@@ -32,11 +32,18 @@ const rutikKohakade = {
   stack: {
     languages: ["C", "Dart", "Java", "JavaScript", "Kotlin"],
     frontend: ["React.js", "Bootstrap", "Flutter"],
-    backend: ["Spring", "Spring Boot", "Hibernate", "JDBC", "JWT", "Node.js", "Servlet", "JSP", "RestAPI"],
+    backend: [
+      "Spring", "Spring Boot", "Hibernate",
+      "JDBC", "JWT", "Node.js",
+      "Servlet", "JSP", "RestAPI",
+    ],
     server: ["Apache", "Apache Tomcat"],
     cloud: ["Firebase", "Google Cloud"],
     database: ["MySQL"],
-    tools: ["Git", "GitHub", "Android Studio", "VS Code", "Postman", "Bruno", "IntelliJ IDEA"],
+    tools: [
+      "Git", "GitHub", "Android Studio",
+      "VS Code", "Postman", "Bruno", "IntelliJ IDEA",
+    ],
   },
   launchedProjects: [
     "Banking Loan Management System",
@@ -50,8 +57,8 @@ const rutikKohakade = {
 ```
 
 </td>
-<td valign="middle" width="45%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="320"/>
+<td valign="middle" width="40%" align="center">
+<img src="./assets/coding.gif" width="220"/>
 </td>
 </tr>
 </table>
