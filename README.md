@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:1B1035,100:2D1B4E&height=220&section=header&text=Rutik%20Kohakade&fontSize=48&fontColor=00E5FF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CS%20Passout&descAlignY=55&descSize=18&fontColor2=FF3EA5" width="100%"/>
 
 <a href="https://github.com/Rutik0999">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00E5FF&background=0A0A0F00&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;Learning+React.js+%26+Modern+Frontend+%F0%9F%8C%B1;Building+with+Spring+Boot+%E2%9A%99%EF%B8%8F;Developing+Cross-Platform+Apps+with+Flutter+%F0%9F%93%B1;Improving+Data+Structures+%26+Algorithms+%F0%9F%92%BB;Seeking+Software+Developer+Opportunities+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00E5FF&background=0A0A0F00&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;Learning+React.js+%26+Modern+Frontend+%F0%9F%8C%B1;Building+with+Spring+Boot+%E2%9A%99%EF%B8%8F;Develop+Cross-Platform+Apps+with+Flutter+%F0%9F%93%B1;Improving+Data+Structures+%26+Algorithms+%F0%9F%92%BB;Seeking+Software+Developer+Opportunities+%F0%9F%8E%AF" alt="Typing SVG" />
 </a>
 
 <br/>
