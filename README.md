@@ -24,7 +24,7 @@
 
 <table>
 <tr>
-<td valign="top" width="65%">
+<td valign="middle" width="55%">
 
 ```typescript
 const rutikKohakade = {
@@ -50,8 +50,8 @@ const rutikKohakade = {
 ```
 
 </td>
-<td valign="top" width="35%" align="center">
-<img src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://lottiefiles.com/free-animation/programmer-cfyejZCKW7)" width="100%"/>
+<td valign="middle" width="45%" align="center">
+<video src="https://assets-v2.lottiefiles.com/a/7bcc07ec-1168-11ee-b4dd-d76ae6b5f95a/HklYg9utx8.mp4" autoplay loop muted playsinline width="320"></video>
 </td>
 </tr>
 </table>
